@@ -1,0 +1,15 @@
+D:\учеба IT\git_education\dz1\task4\bin\Debug\net6.0\task4.exe
+D:\учеба IT\git_education\dz1\task4\bin\Debug\net6.0\task4.deps.json
+D:\учеба IT\git_education\dz1\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+D:\учеба IT\git_education\dz1\task4\bin\Debug\net6.0\task4.dll
+D:\учеба IT\git_education\dz1\task4\bin\Debug\net6.0\task4.pdb
+D:\учеба IT\git_education\dz1\task4\obj\Debug\net6.0\task4.csproj.AssemblyReference.cache
+D:\учеба IT\git_education\dz1\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба IT\git_education\dz1\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+D:\учеба IT\git_education\dz1\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+D:\учеба IT\git_education\dz1\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+D:\учеба IT\git_education\dz1\task4\obj\Debug\net6.0\task4.dll
+D:\учеба IT\git_education\dz1\task4\obj\Debug\net6.0\refint\task4.dll
+D:\учеба IT\git_education\dz1\task4\obj\Debug\net6.0\task4.pdb
+D:\учеба IT\git_education\dz1\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+D:\учеба IT\git_education\dz1\task4\obj\Debug\net6.0\ref\task4.dll
